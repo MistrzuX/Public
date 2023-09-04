@@ -1,0 +1,2 @@
+echo "Public test file"
+
